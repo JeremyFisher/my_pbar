@@ -11,3 +11,10 @@ pbar = get_pbar()
 and finally
 
 for blah in pbar(blah):
+
+
+
+~~~~~
+
+to install:
+`pip install progressbar`
